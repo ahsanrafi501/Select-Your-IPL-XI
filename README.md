@@ -31,7 +31,7 @@ A React-based interactive application for selecting players while managing a lim
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone (https://github.com/ahsanrafi501/Select-Your-IPL-XI.git)
 
 # Navigate into the project folder
 cd player-selection-app
